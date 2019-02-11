@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/magento-service-isolation/magento-service-isolation.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Technical vision for Services Isolation](https://github.com/magento/architecture/blob/master/design-documents/service-isolation.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Roadmap
 
-### Markdown
+- Monolith decomposition
+- Services framework  
+- Tools 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Team
 
-```markdown
-Syntax highlighted code block
+Join [#service-isolation](https://magentocommeng.slack.com/messages/CDJQFCLCQ/)
 
-# Header 1
-## Header 2
-### Header 3
+Weekly tech sync 
+Every Thursday 11:00 AM - 12:00 PM CST
+To join the meeting on a computer or mobile phone: https://bluejeans.com/363550742?src=calendarLink
+Content only: https://bluejeans.com/363550742/share
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magento-service-isolation/magento-service-isolation.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
