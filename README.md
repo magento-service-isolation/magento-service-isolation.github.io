@@ -8,13 +8,20 @@
 - Services framework  
 - Tools 
 
+## Progress
+
+[Main Board](https://github.com/orgs/magento-service-isolation/projects/1)
+
 ## Team
 
 Join [#service-isolation](https://magentocommeng.slack.com/messages/CDJQFCLCQ/)
 
 Weekly tech sync 
+
 Every Thursday 11:00 AM - 12:00 PM CST
-To join the meeting on a computer or mobile phone: https://bluejeans.com/363550742?src=calendarLink
-Content only: https://bluejeans.com/363550742/share
+
+Join [bluejeans.com/363550742](https://bluejeans.com/363550742)
+
+[Participants | Agenda | Notes](https://github.com/orgs/magento-service-isolation/teams/tech-sync-participants/discussions)
 
 
